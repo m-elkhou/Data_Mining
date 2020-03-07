@@ -1,6 +1,6 @@
 # Data_Mining
 
-
+Academic TP about Machine Learning Algorithms and applications
 
 ***
 
